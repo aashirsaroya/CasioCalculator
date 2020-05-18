@@ -1,0 +1,1 @@
+Copy font ES03.TTF vao thu muc Fonts cua Windows de kich hoat chuc nang KeyLog cua chuong trinh.
